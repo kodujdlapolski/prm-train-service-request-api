@@ -1,2 +1,5 @@
 # prm-train-service-request-api
-API for requests for requesting prm service
+
+Potrzebujemy API, które będzie:
+* przyjmować zgłoszenie pomocy z aplikacji dla pasażerów,
+* notyfikować aplikację dla pracowników kolei o zgłoszonym pasażerze.
